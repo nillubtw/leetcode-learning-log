@@ -1,3 +1,7 @@
+# Approach: Integer conversion using linked list traversal
+# Time: O(n + m)
+# Space: O(n + m)
+
 # Definition for singly-linked list.
 # class ListNode:
 #     def __init__(self, val=0, next=None):
