@@ -5,7 +5,7 @@ building strong problem-solving skills using Python and other languages.
 The focus is on understanding different approaches, learning from mistakes,
 and gradually improving solution quality and efficiency.
 
-📌 <[Leetcode Profile](leetcode.com/u/nillubro/)>
+📌 [Leetcode Profile](leetcode.com/u/nillubro/)
 
 ## Topics
 - [Arrays](Arrays/)
