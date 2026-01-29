@@ -12,6 +12,9 @@ and learning notes.
 ## Linked Lists
 - [2. Add Two Numbers](Linked-Lists/2-Add-Two-Numbers/)
 
+## Strings
+- [3. Longest Substring Without Repeating Characters](Strings/3-Longest-Substring-Without-Repeating-Characters/)
+
 ---
 
 ## Notes
